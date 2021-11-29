@@ -3,7 +3,6 @@ from optionC import *
 from optionD import *
 from optionE import *
 
-
 class reservation:
     def __init__(self, choice):
         self.choice = choice
